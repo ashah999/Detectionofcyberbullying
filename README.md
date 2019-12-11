@@ -9,7 +9,11 @@ Data Used: The data used in prediction of cyberbullying was downloaded from kagg
 Link for download: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 File Description: The data consist of large number of Wikipedia comments which consist of pre-defined  labels.   The  types  of  labels  are  toxic,  severetoxic,  obscene,  threat,  insult  andidentityhate.
+
 Following were the files which where used:
+
 1.train.csv:- this is the files which contains comments with thier respected binarylabels.  The binary labels are represented by ’0’ and ’1’ for not toxic and toxic.
+
 2.test.csv:- consist of comments which is use for prediction.
+
 3.testlabels:- labels used for test data, values -1 indicates it was not used for scoring.
